@@ -7,7 +7,7 @@ def read(file_name):
 
 setup(
     name="doc2txt-antiword",  # Updated name for more clarity and distinctiveness
-    version="0.1.2",
+    version="0.1.3",
     author="Bhola Kumar",
     author_email="bholak993@example.com",
     description="A Python package to convert .doc files to .txt using the Antiword binary.",

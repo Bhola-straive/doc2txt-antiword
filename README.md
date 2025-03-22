@@ -29,12 +29,12 @@ To install the **doc2txt-antiword** package, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Bhola-kumar/doc2txt-antiword.git
+   git clone https://github.com/Bhola-straive/doc2txt-antiword.git
    ```
 2. Navigate into the directory:
 
    ```bash
-   cd doc2txt-py
+   cd doc2txt-antiword
    ```
 3. Install the package using `pip`:
 
