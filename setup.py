@@ -13,7 +13,7 @@ setup(
     description="A Python package to convert .doc files to .txt using the Antiword binary.",
     long_description=read('README.md'),
     long_description_content_type="text/markdown",
-    url="https://github.com/Bhola-kumar/doc2txt-py",  # Replace with your actual repo URL
+    url="https://github.com/Bhola-straive/doc2txt-antiword",  # Replace with your actual repo URL
     packages=find_packages(),
     include_package_data=True,
     package_data={
